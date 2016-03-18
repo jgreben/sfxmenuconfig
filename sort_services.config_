@@ -1,0 +1,10 @@
+Section "sort" Type=LIST
+#getFullTxt services
+MISCELLANEOUS_EJOURNALS
+#getHolding services
+catalogue_searchworks_LCL
+UNION_CATALOGUE_OCLC_WORLDCAT
+catalogue_oskicat_LCL
+#getDocumentDelivery services
+#stanford_local_interlibrary_loan_LCL
+EndSection

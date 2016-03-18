@@ -1,0 +1,9 @@
+#defines the services that will be part of the general grouping
+Section "basic_grouping"
+    getFullTxt
+    getMessageNoFullTxt
+    getSelectedFullTxt
+    getDocumentDelivery
+    getHolding
+EndSection
+
